@@ -1,1 +1,5 @@
-this use ML MODEL AND GEMINI API with flask
+This Flask   event estimate web application :
+
+Trains two ML models – Linear Regression and Random Forest Regressor.
+
+Uses Gemini API to take input queries (assume natural language descriptions or structured input).
